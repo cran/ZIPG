@@ -1,0 +1,14 @@
+cbf7758fdaa93827747693d9cbcee1b4 *DESCRIPTION
+0151ca1b0a18eb18191667b7a35b5e75 *NAMESPACE
+f863a2deb0617c63a9093da41f94754c *R/ZIPG_main.R
+51cf9b61109f5f429ea61b0a211d1e5b *R/ZIPG_other.R
+df2e59de3190c16f0d2e73c4cf664f6e *R/data.R
+3931e7af42b044f6b1cb5d0013ad1421 *README.md
+db2e0dbc8abe1befbc31270e3c2d5b11 *data/Dietary.rda
+15af9367afbee7c27112c1d8b13faa0b *inst/CITATION
+f030559089f28034e4e1ab67544b161e *man/Dietary.Rd
+d6ff9eea45b09f53c8a3b5632f869d45 *man/ZIPG_CI.Rd
+0d9bc8f786f968031d5b25490f8c2d6f *man/ZIPG_main.Rd
+11cc6c8f12e38ede55379d1ad2fd5a26 *man/ZIPG_simulate.Rd
+3c90c1138905d6bf03e146b3dc6754d8 *man/ZIPG_summary.Rd
+2c8d555e275d842ad1b1248d75f74fef *man/figures/README-unnamed-chunk-2-1.png
